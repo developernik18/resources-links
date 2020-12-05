@@ -22,4 +22,5 @@ Available on - [https://www.markdownguide.org/cheat-sheet/](https://www.markdown
 - [https://www.pexels.com/](https://www.pexels.com/)
 - [https://unsplash.com/](https://unsplash.com/)
 
-
+#### Trends 2020
+https://uxdesign.cc/8-ui-ux-design-trends-for-2020-68e37b0278f6
