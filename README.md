@@ -18,5 +18,8 @@ Available on - [https://www.markdownguide.org/cheat-sheet/](https://www.markdown
 - [https://fontawesome.com/](https://fontawesome.com/)
 - [https://heroicons.com/](https://heroicons.com/)
 
+#### Free images and videos
+- [https://www.pexels.com/](https://www.pexels.com/)
+- [https://unsplash.com/](https://unsplash.com/)
 
 
